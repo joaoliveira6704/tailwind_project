@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Azonix;
+  src: url(../fonts/Azonix.otf);
+}
+
+body {
+  background-color: #121212;
+  font-family: "Azonix";
+}
+
+nav,
+footer {
+  background-color: #0e0e0e;
+}
+
+#card-contact,
+#card-player {
+  background-color: #1d1d1d;
+}
+
+#submit-btn {
+  background-color: #a07925;
+}
+
+.brand-footer {
+  color: #bb8e2e;
+}
+
+a:hover {
+  color: #bb8e2e;
+}
