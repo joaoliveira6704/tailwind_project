@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Uilton Silva",
+    "team": "Paços de Ferreira",
+    "age": 29,
+    "height": 170,
+    "position": "Forward",
+    "image": "assets/cards/uilton.png"
+  },
+  {
+    "name": "João Magno",
+    "team": "Gwangju FC",
+    "age": 28,
+    "height": 195,
+    "position": "Forward | Striker",
+    "image": "assets/cards/joao_magno.png"
+  },
+  {
+    "name": "Maria",
+    "team": "GWANGJU",
+    "age": "12",
+    "height": "123",
+    "position": "WINGER",
+    "image": "IEIFJEI"
+  },
+  {
+    "name": "Teste",
+    "team": "GWANGJU",
+    "age": "12",
+    "height": "127",
+    "position": "WINGER LEFT",
+    "image": "ABC"
+  }
+]
